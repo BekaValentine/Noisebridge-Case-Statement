@@ -5,6 +5,14 @@ Author: Karol Kozioł (www.karol-koziol.net)
 
 This template is released under Gnu Public Licence (GPL) terms. 
 
+## How to compile LaTeX
+
+This report is compiled with XeLaTeX or LuaTex.
+
+If you would like to compile it on the web, you can use ShareLaTeX: https://www.sharelatex.com/
+
+If you would like to compile it on your own computer, these setup instructions from UPenn are pretty good: https://www.cis.upenn.edu/~cis160/current/files/resources/latex_setup_guide.pdf
+
 ## Notes on image ownership (Edits TODO)
 
 * The 'sky.jpg' picture is from my personal gallery. Please do not use it without my permission. 
